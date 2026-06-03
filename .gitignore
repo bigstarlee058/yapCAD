@@ -84,3 +84,7 @@ examples/output/*
 
 # ignore generated PDF files in docs
 docs/*.pdf
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
